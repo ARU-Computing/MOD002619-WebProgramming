@@ -4,6 +4,9 @@
 2. [Week 02 JavaScript tasks](./Week02-JavaScript/W02-JavaScriptWorksheet.md)
 3. [Week 03 Introduction To Django](./Week03-Django-Introduction/W03-createDjangoApp-v2.md)
 4. [Week 04 Django Templates](./Week04-Django-Templates/W04-DjangoTemplates.md)
+5. [Week 05 Django Statics](./Week05-Django-statics/W05-DjangoStatics.md)
+6. [Week 06 Django Forms](./Week06-Django-Forms/W06-Django-Forms.md)
+7. [Week 07 Django TDD](./Week07-Django-TDD/W07.DjangoTDD.md)
 
 
 
